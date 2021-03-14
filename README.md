@@ -1,4 +1,4 @@
-- 👋 Hi, I’m divyanshu bhati
+- 👋 Hi, I’m a software developer working at Oracle since July 2018
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning spring and other backend technologies
 - 💞️ I’m looking to collaborate on web based applications
